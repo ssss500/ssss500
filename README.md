@@ -17,7 +17,6 @@
 <p><a href="http://Wa.me/201022535966" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/saif-ahmed-382117196/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><p>
 
 <hr>
-[<img src="https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png" width="25"/>](https://github.com/user/repository/subscription)
 
 
 <h2> Samples from my projects </h2>
@@ -28,7 +27,8 @@
 - An idea that the user registers with and knows the nearest private garage in which the car can be parked, the price of the hour, the vacant spaces in the garage, and the ability to open the gate from the program. There are illustrative pictures in detail.<br /> 
 <p><a href="https://play.google.com/store/apps/details?id=com.mohammed.alaude_student" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
 <p>
-### Muhammad Al-Awadi- السلطان العوضي
+### Muhammad Al-Awadi - السلطان العوضي
+
 
 - A teacher program called Muhammad Al-Awadi, which is a special program for a high school teacher to help students watch the explanation, solve exams, provide an accompanying explanation, and purchase services through a code.<br /> 
 
