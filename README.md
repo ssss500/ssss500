@@ -28,11 +28,8 @@
 <!-- <p>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <p> -->
 - <p><a href="https://github.com/ssss500/smart_parking1" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a><p>
-
-###
-
- 
-Muhammad Al-Awadi -السلطان العوضي
+<hr>
+### Muhammad Al-Awadi -السلطان العوضي
  
 - A teacher program called Muhammad Al-Awadi, which is a special program for a high school teacher to help students watch the explanation, solve exams, provide an accompanying explanation, and purchase services through a code.<br /> 
 
