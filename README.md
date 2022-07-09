@@ -27,9 +27,9 @@
 - An idea that the user registers with and knows the nearest private garage in which the car can be parked, the price of the hour, the vacant spaces in the garage, and the ability to open the gate from the program. There are illustrative pictures in detail.<br /> 
 <p><a href="https://play.google.com/store/apps/details?id=com.mohammed.alaude_student" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> 
 <p>
-### Muhammad Al-Awadi - السلطان العوضي
-
-
+ 
+Muhammad Al-Awadi -السلطان العوضي
+ 
 - A teacher program called Muhammad Al-Awadi, which is a special program for a high school teacher to help students watch the explanation, solve exams, provide an accompanying explanation, and purchase services through a code.<br /> 
 
 <p><a href="https://play.google.com/store/apps/details?id=com.mohammed.alaude_student" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/cn/app/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%B6%D9%8A/id1547299817" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
