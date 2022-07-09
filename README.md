@@ -25,8 +25,8 @@
 
 - It is the last project that I created, which was a graduation project for one of the students.<br /> 
 - An idea that the user registers with and knows the nearest private garage in which the car can be parked, the price of the hour, the vacant spaces in the garage, and the ability to open the gate from the program. There are illustrative pictures in detail.<br /> 
-<p>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-<p>
+<!-- <p>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+<p> -->
 <p><a href="https://github.com/ssss500/smart_parking1" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a><p>
  
 Muhammad Al-Awadi -السلطان العوضي
