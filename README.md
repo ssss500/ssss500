@@ -1,12 +1,30 @@
-<h1 align="center">Hi 👋, I'm saif ahmed</h1>
-<h3 align="center">A flutter developer from Egypt</h3>
+<h2> Hi there, I'm Saif ahmed 👋💻🤝 </h2>
 
-- 📫 How to reach me **saifahmed606012@gmail.com**
+ 
+- flutter developer 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saif ahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif ahmed" height="30" width="40" /></a>
-</p>
+<hr>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+ 
+
+<h2> Contact with me on </h2>
+
+ 
+
+- email : saifahmed606012@gmail.com
+
+
+<p><a href="http://Wa.me/201022535966" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/saif-ahmed-382117196/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><p>
+
+<!--  <a href="https://www.instagram.com/abdullahmanss" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-cd486b.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
+
+<!-- - whatsApp for bussines : http://Wa.me/201028205960
+- business email : abdullah@mansouracademy.net
+- personal email : abdullah.mansour97@gmail.com
+- facebook : https://www.facebook.com/abdullahmanss
+- linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
+- instagram : https://www.instagram.com/abdullahmanss
+- youtube channel : https://www.youtube.com/AbdullahMansourAli -->
+<hr>
+
+<h2> Samples from my projects </h2>
