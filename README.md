@@ -16,26 +16,16 @@
 
 <p><a href="http://Wa.me/201022535966" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/whatsapp-128C7E.svg?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  <a href="https://www.linkedin.com/in/saif-ahmed-382117196/" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a><p>
 
-<!--  <a href="https://www.instagram.com/abdullahmanss" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/instagram-cd486b.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a> -->
-
-<!-- - whatsApp for bussines : http://Wa.me/201028205960
-- business email : abdullah@mansouracademy.net
-- personal email : abdullah.mansour97@gmail.com
-- facebook : https://www.facebook.com/abdullahmanss
-- linkedIn : https://www.linkedin.com/in/abdullah-mansour-346516159
-- instagram : https://www.instagram.com/abdullahmanss
-- youtube channel : https://www.youtube.com/AbdullahMansourAli -->
 <hr>
 
 
 <h2> Samples from my projects </h2>
 
-### Fosha
+### السلطان العوضي
 
-Fosha - فسحة is your go-to app for all fun things to do in Egypt.<br />
-Discover trips, activities & events created for you by passionate locals.<br />
-
-<p><a href="https://play.google.com/store/apps/details?id=com.fosha.app" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/us/app/fosha/id1600031499" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+- A teacher program called Muhammad Al-Awadi, which is a special program for a high school teacher to help students watch the explanation, solve exams, provide an accompanying explanation, and purchase services through a code.<br /> 
+- 
+<p><a href="https://play.google.com/store/apps/details?id=com.mohammed.alaude_student" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/cn/app/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%B6%D9%8A/id1547299817" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
 
 <!-- - android : https://play.google.com/store/apps/details?id=com.fosha.app
 - ios : https://apps.apple.com/us/app/fosha/id1600031499 -->
