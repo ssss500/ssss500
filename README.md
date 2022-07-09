@@ -21,6 +21,11 @@
 
 <h2> Samples from my projects </h2>
 
+### smart parking
+
+- It is the last project that I created, which was a graduation project for one of the students.<br /> 
+- An idea that the user registers with and knows the nearest private garage in which the car can be parked, the price of the hour, the vacant spaces in the garage, and the ability to open the gate from the program. There are illustrative pictures in detail.<br /> 
+
 ### السلطان العوضي
 
 - A teacher program called Muhammad Al-Awadi, which is a special program for a high school teacher to help students watch the explanation, solve exams, provide an accompanying explanation, and purchase services through a code.<br /> 
