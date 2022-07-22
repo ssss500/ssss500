@@ -28,12 +28,14 @@
 <!-- <p>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <p> -->
 - <p><a href="https://github.com/ssss500/smart_parking1" target="_blank"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a><p>
-<hr>
-### Muhammad Al-Awadi -السلطان العوضي
- 
-- A teacher program called Muhammad Al-Awadi, which is a special program for a high school teacher to help students watch the explanation, solve exams, provide an accompanying explanation, and purchase services through a code.<br /> 
 
-<p><a href="https://play.google.com/store/apps/details?id=com.mohammed.alaude_student" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/cn/app/%D8%A7%D9%84%D8%B3%D9%84%D8%B7%D8%A7%D9%86-%D8%A7%D9%84%D8%B9%D9%88%D8%B6%D9%8A/id1547299817" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
+<hr>
+
+### Negm El-Deen نجم الدين ـ
+
+- A teacher program called Negm El-Deen, which is a special program for a high school teacher to help students watch the explanation, solve exams, provide an accompanying explanation, and purchase services through a code.<br /> 
+
+<p><a href="https://play.google.com/store/apps/details?id=com.saif.negm_el_deen_st" target="_blank"><img alt="Google Play" src="https://img.shields.io/badge/Get%20it%20on%20google%20play-blue.svg?style=for-the-badge&logo=google-play" /></a> <a href="https://apps.apple.com/app/id1631515273" target="_blank"><img alt="App Store" src="https://img.shields.io/badge/Get%20it%20on%20app%20store-black.svg?style=for-the-badge&logo=app-store&logoColor=white" /></a><p>
  
 <hr>
 
